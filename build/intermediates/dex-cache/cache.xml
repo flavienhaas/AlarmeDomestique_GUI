@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4aacc7e1ebc86e8754253b01a402bc284b0ec53">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a3c093fa191a702682fbc5f8880386c7744b8a9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_cc57db7121355fee20dd0a3ab5dc3327030d7206\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c61fdc076a96bdeaafa7cb12950399340c057d06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bfd8cf6cb8493892c0b328bd7978c2e883cd36a">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0e8502e51fbc50651eec48e6e3634706057e12dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_be82d95fafcbf905a4075f40a31613a947bd3069\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_9473535b2e4928a4924626014c08a42d1ed7fa2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_3caf1f80bab4d4bb7cfc8d0d09b34c17e0e61421\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\flavien\AndroidStudioProjects\AlarmeDomestique\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_d84018c37fe0d8bf99de4b997a4c0bcd91ec39bd\classes.dex" />
+    </item>
+
+</items>
